@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Photos"
+  },
+  {
+    "name": "People"
+  },
+  {
+    "name": "Airlines"
+  },
+  {
+    "name": "Airports"
+  },
+  {
+    "name": "Me"
+  },
+  {
+    "name": "GetNearestAirport"
+  }
+]
